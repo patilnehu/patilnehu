@@ -1,6 +1,9 @@
 # 👋 Hi, I’m Neha Patil
 # 💫 About Me:
-👀 I’m interested in Coding<br>😄 Pronouns: She/Her <br> 👩🏻‍💻 Learning new skills 
+I am a dedicated and versatile frontend developer with a passion for creating efficient and user-friendly web applications. With 1 years of experience, I have worked with a technologies, including React, Next.js, Tailwind Css. 
+My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions.
+<br><br>👀 I’m interested in Coding
+<br> 👩🏻‍💻 Learning new skills 
 
 
 # 💻 Tech Stack:
